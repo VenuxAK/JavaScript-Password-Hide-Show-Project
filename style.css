@@ -1,0 +1,12 @@
+.pw {
+  position: relative;
+
+}
+
+.pw #icon {
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  color: #222;
+  cursor: pointer;
+}
